@@ -13,3 +13,4 @@ artifacts_*/
 laporan/
 mlruns/
 !data/raw/.gitkeep
+.conda/
